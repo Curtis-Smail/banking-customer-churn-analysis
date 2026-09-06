@@ -26,7 +26,7 @@ Leadership needs to know: who is most likely to churn, why, and what early-warni
 signals the bank should act on — so retention efforts can be targeted rather than
 reactive.
 
-![Churn Rate by Login Engagement](images/engagement_churn.png)
+![Churn Rate by Login Engagement](images/2.churn_rate_by_login_engagement.png)
 
 ## Methodology
 
@@ -53,7 +53,7 @@ statistical interpretation
 
 ## Key Findings
 
-![Churn Rate by Risk Group](images/risk_group_churn.png)
+![Churn Rate by Risk Group](images/churn_rate_by_risk_group.png)
 
 1. **Engagement is the strongest churn signal.** Inactive customers (no login in
    90+ days) churn at 51.39%, vs. 18.56% for the most active — a 32.83

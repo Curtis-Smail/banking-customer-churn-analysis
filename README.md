@@ -53,7 +53,7 @@ statistical interpretation
 
 ## Key Findings
 
-![Churn Rate by Risk Group](images/churn_rate_by_risk_group.png)
+![Churn Rate by Risk Group](images/3.churn_rate_by_risk_group.png)
 
 1. **Engagement is the strongest churn signal.** Inactive customers (no login in
    90+ days) churn at 51.39%, vs. 18.56% for the most active — a 32.83

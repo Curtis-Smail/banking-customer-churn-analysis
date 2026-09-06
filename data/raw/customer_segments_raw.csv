@@ -1,0 +1,6 @@
+segment_id,segment_name,description
+1,Retail,"Everyday banking customers using standard checking, savings, and debit products."
+2,Family,"Households with joint accounts, dependents, and family-oriented financial products."
+3,Student,"Young customers, typically enrolled in education, with entry-level banking products."
+4,Premium,High-net-worth customers with high balances and access to premium/wealth services.
+5,Senior,"Retirement-age customers, often with pension deposits and lower digital engagement."

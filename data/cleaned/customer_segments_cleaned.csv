@@ -1,0 +1,6 @@
+segment_id,segment_name,description
+1,Retail,Standard personal banking customers
+2,Family,Customers with mortgages or family accounts
+3,Student,Students and recent graduates
+4,Premium,High-income customers with premium products
+5,Senior,Retired customers
